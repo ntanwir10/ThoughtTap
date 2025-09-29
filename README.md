@@ -35,7 +35,7 @@ Transform your basic coding prompts into powerful, context-aware instructions th
 ### ❌ Before ThoughtTap
 
 ```
-write some code to validate user input
+Write some code to validate user input
 ```
 
 ### ✅ After ThoughtTap
@@ -113,7 +113,7 @@ code --install-extension thoughttap.thoughttap-vscode
 - **🏗️ Advanced Rules**: 13 additional rules for architecture, DevOps, security, and performance
 - **🤖 Latest AI Models**: GPT-5/o1, Claude 4/3.7, Gemini 2.5 series integration
 - **📚 25+ Specialized Templates**: Microservices, cloud architecture, DevOps pipelines
-- **📊 Optimization History**: 90-day searchable history with favorites and analytics
+- **📊 Optimization History**: 90-day searchable history with favourites and analytics
 - **🎯 Priority Support**: Fast response times and feature request prioritization
 - **🔄 Settings Sync**: Cross-device synchronization of preferences and custom rules
 
@@ -179,33 +179,124 @@ ThoughtTap includes 10 essential templates for common development tasks:
 1. **Context Analysis**: ThoughtTap analyzes your project structure, detects programming languages, frameworks, and dependencies
 2. **Rule Application**: Lightning-fast rule-based optimization improves grammar, clarity, and structure
 3. **Template Matching**: Intelligent template selection based on your prompt intent and project context
-4. **AI Enhancement** (Pro): Advanced optimization using latest language models for maximum effectiveness
+4. **AI Enhancement** (Pro): Advanced optimization using the latest language models for maximum effectiveness
 5. **Result Delivery**: Get a perfectly crafted prompt ready to use with any AI model
 
 ---
 
-## 🛣️ Roadmap
+## 🚀 Launch Timeline
 
-### ✅ **Phase 1: Developer Intelligence** (Current)
+### ✅ **Now: Live & Available**
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ntanwir.thoughttap) - Install today!
+- Core optimization engine with 10+ free templates
+- Full context analysis for major languages and frameworks
 
-- Core rule-based optimization
-- VS Code extension with UI
-- Free tier templates (10)
-- Context analysis system
+### 📅 **Next Week: Multi-Editor Expansion**
+- OpenVSX Registry deployment
+- Cursor IDE marketplace support
+- Windsurf IDE marketplace support
+- Unified experience across all VS Code forks
 
-### 🔄 **Phase 2: AI Integration** (In Progress)
+### 🎯 **Weeks 2-3: Official Launch**
+- Product Hunt launch
+- Community building push
+- Marketing campaign across developer communities
+- Initial user feedback integration
 
-- Latest AI model integrations
-- Advanced Pro tier features
+### 🔮 **Month 2-3: Advanced Features**
+- GPT-5/o1, Claude 4, Gemini 2.5 integration
+- Custom template builder
 - Optimization history and analytics
-- Cross-device synchronization
+- Team collaboration features (local sharing)
 
-### 📋 **Phase 3: Universal Expansion** (Q2 2025)
+---
 
+## 🛣️ Strategic Roadmap
+
+### ✅ **Phase 1: Developer Foundation** (Months 1-12)
+
+**Mission**: "Tap into AI-enhanced development intelligence"
+
+**Focus Areas**:
+- VS Code extension as primary platform
+- Deep integration with developer workflows
+- Context-aware optimization for technical prompts
+- Building developer community and trust
+
+**Key Milestones**:
+- ✅ Core rule-based optimization engine
+- ✅ Multi-editor support (VS Code, Cursor, Windsurf)
+- 🔄 Latest AI model integrations (GPT-5, Claude 4, Gemini 2.5)
+- 🔄 Advanced DevOps and architecture templates
+- 📋 Settings sync and history features
+- 📋 Custom template builder
+
+**Target**: 1,000+ active users, 4.5+ star rating, sustainable MRR
+
+### 📋 **Phase 2: Universal Expansion** (Year 2+)
+
+**Mission**: "Tap into smarter thinking for work and creativity"
+
+**Platform Expansion**:
 - Web application for cross-platform access
-- Chrome extension for universal AI integration
-- Business and creative templates
-- Team collaboration features
+- Chrome extension for universal AI platform integration
+- Mobile companion apps (iOS/Android)
+
+**Feature Expansion**:
+- Business productivity templates (reports, analysis, strategy)
+- Creative assistance (content creation, brainstorming)
+- Academic templates (research, citations, writing)
+- Team collaboration and workspace features
+
+**Market Expansion**:
+- Business professionals and consultants
+- Content creators and marketers
+- Students and academics
+- Creative professionals
+
+**Target**: 25,000+ users across all platforms, enterprise features
+
+### 🌟 **Phase 3: Ecosystem & Integration** (Year 3+)
+
+**Vision**: ThoughtTap as the universal thinking enhancement layer
+
+**Planned Features**:
+- Public template marketplace
+- API for third-party integrations
+- JetBrains IDE support
+- Enterprise features (team management, analytics, SSO)
+- Custom model fine-tuning
+- Industry-specific optimization (healthcare, legal, finance)
+
+---
+
+## 💬 Get Involved
+
+ThoughtTap is built with the community, for the community. Your feedback shapes our roadmap!
+
+### 🐛 **Found a Bug?**
+[Report it on GitHub Issues](https://github.com/ntanwir10/ThoughtTap/issues) - We respond within 24 hours
+
+### 💡 **Have an Idea?**
+[Share your feature request](https://github.com/ntanwir10/ThoughtTap/issues) - Vote on existing ideas or propose new ones
+
+### 📧 **Want to Chat?**
+[Contact us directly](https://thoughttap.com/contact) - For partnerships, press inquiries, or general questions
+
+### ⭐ **Like ThoughtTap?**
+Star this repo and share with fellow developers!
+
+### 🗣️ **Spread the Word**
+- Share on Twitter/X with #ThoughtTap
+- Write a review on VS Code Marketplace
+- Tell your team and developer community
+
+---
+
+**Build Status**: 
+- Latest Release: v1.0.3
+- Next Release: v1.1.0 (OpenVSX support) - Coming next week
+- Roadmap Progress: [View on GitHub Projects](https://github.com/ntanwir10/ThoughtTap/projects)
 
 ---
 
