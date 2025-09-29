@@ -295,8 +295,7 @@ Star this repo and share with fellow developers!
 
 **Build Status**: 
 - Latest Release: v1.0.3
-- Next Release: v1.1.0 (OpenVSX support) - Coming next week
-- Roadmap Progress: [View on GitHub Projects](https://github.com/ntanwir10/ThoughtTap/projects)
+- Next Release: v1.1.3 (OpenVSX support) - Coming next week
 
 ---
 
