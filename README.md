@@ -97,6 +97,53 @@ code --install-extension thoughttap.thoughttap-vscode
 
 ---
 
+## 🔑 Bring Your Own Key (BYOK) - Pro Feature
+
+### What is BYOK?
+
+ThoughtTap Pro uses **Bring Your Own Key (BYOK)** - meaning you provide your own AI provider API keys for maximum privacy and cost control.
+
+### Benefits of BYOK
+
+- **🔒 Full Privacy**: Your API keys, your control - we never see or store them
+- **💰 Cost Transparency**: Pay your AI provider directly, no markup
+- **🔄 Model Flexibility**: Switch between providers anytime
+- **⚡ No Rate Limits**: Use your own API quotas
+
+### Setting Up BYOK for Pro Features
+
+1. **Open ThoughtTap Settings**
+   - Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+   - Type "ThoughtTap: Settings"
+
+2. **Configure AI Provider**
+   - Navigate to "AI Provider Configuration"
+   - Add your API key for one or more providers:
+     - **OpenAI**: GPT-5, GPT-4o1
+     - **Anthropic**: Claude 4, Claude 3.7
+     - **Google**: Gemini 2.5 Flash/Pro
+
+3. **Select Your Preferred Model**
+   - Choose which AI model to use for Aggressive strategy
+   - ThoughtTap will use this for maximum optimization
+
+4. **Start Using Aggressive Strategy**
+   - Default for Pro users
+   - Uses your configured AI provider
+   - Get the best possible prompt optimization
+
+### Supported AI Providers
+
+| Provider | Models | Use Case |
+|----------|--------|----------|
+| **OpenAI** | GPT-5, GPT-4o1, GPT-4o | Versatile, powerful reasoning |
+| **Anthropic** | Claude 4, Claude 3.7 Sonnet | Long context, nuanced understanding |
+| **Google** | Gemini 2.5 Flash, Gemini 2.5 Pro | Fast processing, multimodal |
+
+> **Privacy Note**: All API keys are stored securely in VS Code's encrypted storage. Your keys never leave your local machine and are never transmitted to ThoughtTap servers.
+
+---
+
 ## ✨ Features
 
 ### 🆓 **Free Tier** - Everything You Need to Get Started
@@ -106,12 +153,13 @@ code --install-extension thoughttap.thoughttap-vscode
 - **📝 10 Essential Templates**: Complete library for common development tasks
 - **🎛️ Custom Rules**: Create up to 5 personalized optimization rules
 - **🔧 Full VS Code Integration**: Commands, context menu, keyboard shortcuts, and webview panel
-- **🎯 Multiple Strategies**: Light (~10ms), Balanced (~50ms) optimization levels
+- **🎯 Multiple Strategies**: Light (~10ms), Balanced (~50ms) - Balanced is default for best results
 
 ### 💎 **Pro Tier** - Advanced Developer Tools ($6.99/month)
 
 - **🏗️ Advanced Rules**: 13 additional rules for architecture, DevOps, security, and performance
-- **🤖 Latest AI Models**: GPT-5/o1, Claude 4/3.7, Gemini 2.5 series integration
+- **🤖 Latest AI Models**: GPT-5/o1, Claude 4/3.7, Gemini 2.5 series integration with BYOK
+- **⚡ Aggressive Strategy**: Default AI-powered optimization using your own API keys
 - **📚 25+ Specialized Templates**: Microservices, cloud architecture, DevOps pipelines
 - **📊 Optimization History**: 90-day searchable history with favourites and analytics
 - **🎯 Priority Support**: Fast response times and feature request prioritization
@@ -140,11 +188,28 @@ ThoughtTap includes 10 essential templates for common development tasks:
 
 ## 🎯 Optimization Strategies
 
-| Strategy       | Speed  | Features               | Best For                  |
-| -------------- | ------ | ---------------------- | ------------------------- |
-| **Light**      | ~10ms  | Rules only             | Quick fixes, grammar      |
-| **Balanced**   | ~50ms  | Rules + Templates      | Complete optimization     |
-| **Aggressive** | ~200ms | Rules + Templates + AI | Maximum enhancement (Pro) |
+### Strategy Comparison
+
+| Strategy       | Speed  | Features               | Default For | Best For                  |
+| -------------- | ------ | ---------------------- | ----------- | ------------------------- |
+| **Light**      | ~10ms  | Grammar & clarity rules only | -     | Quick fixes, basic improvements |
+| **Balanced**   | ~50ms  | Rules + Templates      | **Free Tier** | Complete optimization (Recommended) |
+| **Aggressive** | ~200ms | Rules + Templates + AI | **Pro Tier**  | Maximum AI enhancement |
+
+### 🎛️ Default Strategy Settings
+
+**Free Tier:**
+- Default: **Balanced** strategy
+- Provides rule-based optimization + full template expansion
+- Recommended for most use cases (~50ms processing time)
+
+**Pro Tier:**
+- Default: **Aggressive** strategy
+- Maximum AI enhancement using your own API keys (BYOK)
+- Includes all rules, templates + AI model optimization
+- ~200ms processing time
+
+> **Note**: You can change the strategy anytime in the ThoughtTap panel. Free users can switch between Light and Balanced; Pro users have access to all three strategies.
 
 ---
 
